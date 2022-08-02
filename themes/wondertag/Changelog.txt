@@ -1,0 +1,193 @@
+v2.3.6
+- Added Compatibility with WoWonder v3.2.2
+- Added Translations for User Stats
+- Fixed 5+ design bugs
+
+Changed Files:
+	"./wondertag/javascript/script.js"
+	
+	"./wondertag/layout/emails/notifiction-email.phtml"
+	"./wondertag/layout/extra_js/content.phtml"
+	"./wondertag/layout/header/theme-options.phtml"
+	"./wondertag/layout/home/content.phtml"
+	"./wondertag/layout/nodejs/chat-list.phtml"
+	"./wondertag/layout/nodejs/message-text-list.phtml"
+	"./wondertag/layout/story/includes/fetched_url.phtml"
+	"./wondertag/layout/story/includes/header.phtml"
+	"./wondertag/layout/timeline/insights.phtml"
+	"./wondertag/layout/video/agora.phtml"
+	"./wondertag/layout/video/content.phtml"
+	"./wondertag/layout/container.phtml"
+	
+	"./wondertag/stylesheet/style.css"
+	"./wondertag/stylesheet/style_rtl.css"
+
+---------------------------------------------------
+
+
+v2.3.5
+- Show Insights and QR in the User profile page (Enable in Theme Options)
+- Updated JS Libraries
+- Fixed 5+ design bugs
+
+---------------------------------------------------
+
+
+v2.3.4
+- Added Compatibility with WoWonder v3.2.1
+- Fixed issues
+
+---------------------------------------------------
+
+
+v2.3.3
+- Added Compatibility with WoWonder v3.2
+- Added NodeJS compatibility
+- Added Contact Seller button in product post in News Feed
+- Added new Image Preview for Chat and comment images
+- Fixed 5+ bugs
+
+---------------------------------------------------
+
+
+v2.3.2
+- Fixed 5+ design bugs
+
+---------------------------------------------------
+
+
+v2.3.1
+- Fixed Header bugs
+
+---------------------------------------------------
+
+
+v2.3
+- Added Compatibility with WoWonder v3.1.3
+- Fixed design bugs
+
+---------------------------------------------------
+
+
+v2.2.1
+- Added Compatibility with WoWonder v3.1.2
+
+---------------------------------------------------
+
+
+v2.2
+- Added new video player (Enable in Theme Options)
+- Added functionality to hide Left Sidebar links for Guest User (Enable in Theme Options)
+- Fixed 5+ bugs
+
+---------------------------------------------------
+
+
+v2.1
+- Added Compatibility with WoWonder v3.1.1
+
+---------------------------------------------------
+
+
+v2.0
+- Added Compatibility with WoWonder v3.1
+- Added Theme Options
+- Added new Header design (Enable in Theme Options)
+- Added new Welcome page design (Enable in Theme Options)
+- Added Click to Expand Search in Header on Mobile (Enable in Theme Options)
+- Added Infinte scroll products in Market (Enable in Theme Options)
+- Added Trending Hashtags in Sidebar (Enable in Theme Options)
+- Added Auto Dark Mode (Enable in Theme Options)
+- Added Profile Picture Changer in the Group
+- Fixed RTL Layout issues
+- Fixed 10+ bugs
+
+---------------------------------------------------
+
+
+v1.5.2
+- Fixed RTL Layout issues
+
+---------------------------------------------------
+
+
+v1.5.1
+- Fixed Bottom Navbar issues on mobile devices
+
+---------------------------------------------------
+
+
+v1.5
+- Bootstrap v4.5.3
+- Updated JS Libraries
+- Fixed RTL Layout issues
+- Fixed some more issues
+
+---------------------------------------------------
+
+
+v1.4
+- Added User Online indicator in Posts
+- Added function to Pause Videos automatically while scrolling
+- Added Upload Progress while uploading Photos and Videos in the Publisher box
+- Added Following/Followers count in the Info box in the Profile page
+- Added Pro members in Go Pro page
+- Added Stories on top
+- Added Pro members in sidebar
+- Updated JS Libraries
+- Fixed RTL Layout issues
+- Fixed some more issues	
+
+---------------------------------------------------
+
+
+v1.3.1
+- Fixed minor issues
+
+---------------------------------------------------
+
+
+v1.3
+- If the user has applied a Custom Profile background image, now that will show in the Design Settings page
+- Added collapse in Blog Categories for Mobile devices
+- Added Verified badge in Pages you may know section in sidebar and in "My Pages" page
+- Added Reactions in the Image Lightbox
+- Improved Product Post page
+- Improved Header User account menu
+- Improved Welcome page
+- Improved Create Blog Editor for Mobile devices
+- Fixed Forgot Password Issue
+- Fixed Page Design Issue when custom background image is applied
+- Removed Extra space from "#" and "@" in Publisher box
+- Fixed other minor issues
+
+---------------------------------------------------
+
+
+v1.2
+- Clicking on PRO badge will now open Go Pro page
+- Improved Image lightbox for mobile devices
+- Fixed Homepage Greeting issue
+- Fixed Movies Filter Sidebar Color issue
+- Fixed RTL Layout issues
+- Fixed other minor issues
+
+---------------------------------------------------
+
+
+v1.1
+- Add a Weather icon in the "Weather" button on the homepage
+- Fixed Left Sidebar coloring issue
+- Fixed Reply container height in comments
+- Fixed Profile Design Issue when custom background image is applied
+- Fixed Chat Status Dropdown menu width for Russian language
+- Fixed Skeleton height when we refresh "People you may know" widget
+- Increased size of Social Login buttons in welcome page
+- Fixed RTL Layout issues
+- Fixed other minor issues
+
+---------------------------------------------------
+
+
+v1.0
+- Initial Release
